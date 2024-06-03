@@ -1,0 +1,17 @@
+
+------
+title: My second webpage
+------
+
+```{r}
+library (reactable)
+```
+
+
+```{r}
+reactable(iris)
+```
+
+```{r}
+plot(iris)
+```
